@@ -1,3 +1,3 @@
-module github.com/aspose-html/hugo-shortcodes
+module github.com/tpavel-aspose/fileformat-shortcodes
 
-go 1.14
+go 1.16
