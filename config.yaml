@@ -1,10 +1,3 @@
 module:
   hugoVersion:
-    min: "0.78.0"
-#  mounts:
-#    - source: assets
-#      target: assets/tnd-styles
-#    - source: partials
-#      target: layouts/partials/tnd-styles
-#    - source: console
-#      target: layouts/partials/tnd-styles
+    min: "0.74.0"
